@@ -1,4 +1,4 @@
-<h3 color="indigo"><br>Hello folks Iam Pulkit Garg</br></h3>
+<h3<br>Hello folks Iam Pulkit Garg</br></h3>
 <br>
 <ul>
   <li>Java</li>
